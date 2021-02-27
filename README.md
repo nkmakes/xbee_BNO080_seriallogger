@@ -1,1 +1,1 @@
-# xbee_BNO080_seriallogger
+# BNO080 Micropython serial data logger
